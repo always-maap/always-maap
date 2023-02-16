@@ -16,6 +16,7 @@ Go:
 University:
 - [React-NIT-Workshop](https://github.com/always-maap/React-NIT-Workshop): Hacker News inspired and micro examples for Noshirvani React Workshop
 - [Web-NIT-TA](https://github.com/always-maap/Web-NIT-TA): TA class notes and examples for Noshirvani
+- [NIT-Academy](https://github.com/always-maap/NIT-Academy): Noshirvani university online classes during pandemic on a unified platform
 
 Configs:
 - [Config](https://github.com/always-maap/Config): My config files. including os, editor and apps
