@@ -12,7 +12,6 @@ Web:
 
 Rust:
 - [Limoo-Lang](https://github.com/always-maap/Limoo-Lang): compiler written in Rust with the WASM binding for the web
-- [Rust-Hacker-News](https://github.com/always-maap/Rust-Hacker-News): hacker news clone written with rust and egui
 
 Go:
 - [yarcee](https://github.com/always-maap/yarcee): remote code execution engine written with go and firecracker-go-sdk
@@ -22,6 +21,10 @@ University:
 - [Web-NIT-TA](https://github.com/always-maap/Web-NIT-TA): TA class notes and examples for Noshirvani
 - [React-NIT-Workshop](https://github.com/always-maap/React-NIT-Workshop): Hacker News inspired and micro examples for Noshirvani React Workshop
 
-Configs:
+Personal:
+- [Website](https://github.com/always-maap/Website): Technical writings about software engineering, team management and my experiences in the industry
+- [Resume](https://github.com/always-maap/Resume): My resumes over the years with source files to freely edit
 - [Config](https://github.com/always-maap/Config): My config files. including os, editor and apps
-- [Config-Automation](https://github.com/always-maap/Config-Automation): Ansible playbook for my configs and apps 
+- [Config-Automation](https://github.com/always-maap/Config-Automation): Ansible playbook for my configs and apps
+- [Talks](https://github.com/always-maap/Talks): Presentations and demos for my talks
+
