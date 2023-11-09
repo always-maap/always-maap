@@ -12,6 +12,7 @@ Web:
 
 Rust:
 - [Limoo-Lang](https://github.com/always-maap/Limoo-Lang): compiler written in Rust with the WASM binding for the web
+- [Despoina](https://github.com/always-maap/Despoina): sending grades of students privately from .csv file using rust
 
 Go:
 - [yarcee](https://github.com/always-maap/yarcee): remote code execution engine written with go and firecracker-go-sdk
