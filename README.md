@@ -22,7 +22,7 @@ University:
 - [NIT-Academy](https://github.com/always-maap/NIT-Academy): Noshirvani university online classes during pandemic on a unified platform
 - [Web-NIT-TA](https://github.com/always-maap/Web-NIT-TA): TA class notes and examples for Noshirvani
 - [React-NIT-Workshop](https://github.com/always-maap/React-NIT-Workshop): Hacker News inspired and micro examples for Noshirvani React Workshop
-- [Python-Leet-Code](https://github.com/always-maap/Python-Leet-Code): My take on LeetCode Interview Questions
+- [LeetCode](https://github.com/always-maap/LeetCode): My take on LeetCode Interview Questions
 
 Personal:
 - [Website](https://github.com/always-maap/Website): Technical writings about software engineering, team management and my experiences in the industry
