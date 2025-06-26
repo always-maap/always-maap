@@ -8,6 +8,9 @@ Enterprise:
 - [Zoomit Product](https://zoomit.ir/product): Zoomit Product helps you find the cheapest seller for thousands of products
 - [iGap](https://web.igap.net): iGap is a free and partially open-source instant messaging application
 
+Research:
+- [IRHEE](https://github.com/always-maap/IRHEE): Iran Higher Education Entrance Exam Dataset and LLM Leaderboard
+
 Web:
 - [TS-Collection](https://github.com/always-maap/TS-Collection): Algorithms and Data Structures for the modern web
 - [Tauri-Zeplin](https://github.com/always-maap/Tauri-Zeplin): Elegant zeplin client with a focus on offline experience, speed and UX
@@ -17,6 +20,7 @@ Rust:
 - [Despoina](https://github.com/always-maap/Despoina): sending grades of students privately from .csv file using rust
 
 Go:
+- [YIT](https://github.com/always-maap/yit): git compatible distributed version controller
 - [yarcee](https://github.com/always-maap/yarcee): remote code execution engine written with go and firecracker-go-sdk
 
 University:
