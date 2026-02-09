@@ -3,7 +3,7 @@
 Here are a few projects I worked on.
 
 Enterprise:
-- [Digikala](https://www.digikala.com/): Digikala is Iran’s leading e-commerce platform with over 20M products
+- [Digikala](https://www.digikala.com/): Digikala is Iran’s leading e-commerce platform
 - [Zoomit](https://zoomit.ir/): Zoomit is the most viewed Persian-language online media in the field of technology
 - [Zoobin](https://zoomit.ir/product): Compare prices and shop smarter across thousands of online stores
 - [iGap](https://web.igap.net): iGap is a free and open-source instant messaging application
