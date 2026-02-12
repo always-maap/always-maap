@@ -10,7 +10,7 @@ Enterprise:
 - [iGap](https://web.igap.net): is a free and open-source instant messaging application
 
 Research:
-- [IRHEE](https://github.com/always-maap/IRHEE): Iran Higher Education Entrance Exam Dataset and LLM Leaderboard
+- [IRHEEE](https://github.com/always-maap/IRHEE): Iran Higher Education Entrance Exam Dataset and LLM Leaderboard
 
 Web:
 - [TS-Collection](https://github.com/always-maap/TS-Collection): Algorithms and Data Structures for the modern web
