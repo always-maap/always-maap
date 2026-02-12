@@ -3,10 +3,11 @@
 Here are a few projects I worked on.
 
 Enterprise:
-- [Digikala](https://www.digikala.com/): Digikala is Iran’s leading e-commerce platform
-- [Zoomit](https://zoomit.ir/): Zoomit is the most viewed Persian-language online media in the field of technology
+- [Digikala](https://www.digikala.com/): is Iran’s leading e-commerce platform
+- [Zoomit](https://zoomit.ir/): is the most viewed Persian-language online media in the field of technology
 - [Zoobin](https://zoomit.ir/product): Compare prices and shop smarter across thousands of online stores
-- [iGap](https://web.igap.net): iGap is a free and open-source instant messaging application
+- [Zoomg](https://www.zoomg.ir/), [Kojaro](https://www.kojaro.com/), [Pedal](https://www.pedal.ir/), [Filmzi](https://www.filmzi.tv/), [Zoomon](https://www.zoomon.ir/): Our in-house multi-tenant CMS later powered other members of the Zoomit family
+- [iGap](https://web.igap.net): is a free and open-source instant messaging application
 
 Research:
 - [IRHEE](https://github.com/always-maap/IRHEE): Iran Higher Education Entrance Exam Dataset and LLM Leaderboard
@@ -35,4 +36,3 @@ Personal:
 - [Config](https://github.com/always-maap/Config): My config files. including os, editor and apps
 - [Config-Automation](https://github.com/always-maap/Config-Automation): Ansible playbook for my configs and apps
 - [Talks](https://github.com/always-maap/Talks): Presentations and demos for my talks
-
