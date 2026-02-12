@@ -3,11 +3,11 @@
 Here are a few projects I worked on.
 
 Enterprise:
-- [Digikala](https://www.digikala.com/): is Iran’s leading e-commerce platform
-- [Zoomit](https://zoomit.ir/): is the most viewed Persian-language online media in the field of technology
+- [Digikala](https://www.digikala.com/): Iran’s leading e-commerce platform
+- [Zoomit](https://zoomit.ir/): the most viewed Persian language online media in the field of technology
 - [Zoobin](https://zoomit.ir/product): Compare prices and shop smarter across thousands of online stores
 - [Zoomg](https://www.zoomg.ir/), [Kojaro](https://www.kojaro.com/), [Pedal](https://www.pedal.ir/), [Filmzi](https://www.filmzi.tv/), [Zoomon](https://www.zoomon.ir/): Our in-house multi-tenant CMS later powered other members of the Zoomit family
-- [iGap](https://web.igap.net): is a free and open-source instant messaging application
+- [iGap](https://web.igap.net): free and open-source instant messaging application
 
 Research:
 - [IRHEEE](https://github.com/always-maap/IRHEE): Iran Higher Education Entrance Exam Dataset and LLM Leaderboard
